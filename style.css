@@ -1,0 +1,39 @@
+h1{
+    color:#000000;
+}
+
+.head{
+    background-color:#e00218;
+}
+
+.menu{
+    background-color:#ffd700;
+    display:flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+
+.origami{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:#1ba7d1;
+    text-align: center;
+    font-family: fantasy;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    background-color:#13003a;
+}
+
+.sub{
+    text-align: center;
+    background-color:#217c4c;
+}
+
+body{
+
+    background-color:#0fc57f;
+}
+
